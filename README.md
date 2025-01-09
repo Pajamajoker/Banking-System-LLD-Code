@@ -1,1 +1,1 @@
-![alt text](https://github.com/Pajamajoker/MySystemDesignProjects/blob/main/BankingSystem/ClassDiagram.png?raw=true)
+<img src="ClassDiagram.png" alt="High-Level Architecture" width="800"/>
